@@ -1,5 +1,5 @@
 
-![1024x1024-nobg 5](https://github.com/Oxlac/.github/assets/100900868/577e9b6d-335f-47aa-8a9e-15ee5c66ac72)
+![512x512](https://github.com/Oxlac/.github/assets/100900868/63192942-c67b-4918-9f6a-db28e0c57282)
 
 # 💫 About Us:
 🌟 Oxlac is a software development company that both it's clients and customers could trust open heartedly. <br>✨ Our purpose has always been and will always be to offer high quality software solutions and applications. <br>🌠 User privacy is one thing that we think about and care as much coffee.<br><br>🤝 We believe in open source development, you can contribute to our open source projects.
