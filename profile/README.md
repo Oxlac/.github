@@ -1,5 +1,12 @@
 
-# ![128x128](https://github.com/Oxlac/.github/assets/100900868/23d9ba40-047e-4f56-9cec-79c4fd0d29d7) Oxlac
+<div align="center">
+  <a href="https://oxlac.com">
+    ![128x128](https://github.com/Oxlac/.github/assets/100900868/38a0af1d-5162-4932-bc0c-80bdb5578af9)
+  </a>
+
+<h3 align="center">Oxlac</h3>
+<p align="center">Transforming the Digital Landscape</p>
+</div>
 
 
 # 💫 About Us:
