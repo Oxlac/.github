@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Us:
 🌟 Oxlac is a software development company that both it's clients and customers could trust open heartedly. <br>✨ Our purpose has always been and will always be to offer high quality software solutions and applications. <br>🌠 User privacy is one thing that we think about and care as much coffee.<br><br>🤝 We believe in open source development, you can contribute to our open source projects.
 
 
