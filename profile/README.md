@@ -1,11 +1,12 @@
 
 <div align="center">
-  <a href="https://oxlac.com">
-    ![128x128](https://github.com/Oxlac/.github/assets/100900868/38a0af1d-5162-4932-bc0c-80bdb5578af9)
-  </a>
+
+  ![128x128](https://github.com/Oxlac/.github/assets/100900868/38a0af1d-5162-4932-bc0c-80bdb5578af9)
 
 <h3 align="center">Oxlac</h3>
 <p align="center">Transforming the Digital Landscape</p>
+<br />
+<a href="https://oxlac.com"><strong>Visit Our Website »</strong></a>
 </div>
 
 
