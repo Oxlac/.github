@@ -5,7 +5,6 @@
 
 <h3 align="center">Oxlac</h3>
 <p align="center">Transforming the Digital Landscape</p>
-<br />
 <a href="https://oxlac.com"><strong>Visit Our Website »</strong></a>
 </div>
 
