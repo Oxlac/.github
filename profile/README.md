@@ -1,6 +1,5 @@
 
-![128x128](https://github.com/Oxlac/.github/assets/100900868/23d9ba40-047e-4f56-9cec-79c4fd0d29d7) 
-# Oxlac
+# ![128x128](https://github.com/Oxlac/.github/assets/100900868/23d9ba40-047e-4f56-9cec-79c4fd0d29d7) Oxlac
 
 
 # 💫 About Us:
